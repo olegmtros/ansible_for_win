@@ -9,7 +9,7 @@ standart proggrams enabled by default.
 
 buh options:
 - 1c #always install
-# need to define version vars cppro_ver=4 or cppro_ver=5
+need to define version vars cppro_ver=4 or cppro_ver=5
 - cryptopro4
 - cryptopro5
 
