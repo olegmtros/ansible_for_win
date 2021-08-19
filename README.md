@@ -18,7 +18,7 @@ remote options:
 - teamviever
 - anyconnect
 
-how to play:
+how to play
 only std:
 ansible-playbook main.yml
 
