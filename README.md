@@ -19,6 +19,7 @@ remote options:
 - anyconnect
 
 how to play
+
 only std:
 ansible-playbook main.yml
 
