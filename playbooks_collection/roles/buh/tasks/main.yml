@@ -11,7 +11,7 @@
 
   - name: download urls
     win_get_url:
-      url: http://10.19.128.103/buh/{{ item }}
+      url: http://{{ iph }}/buh/{{ item }}
       dest: C:\ansible_temp\{{ item }}
     loop:
       - 'cppro4.exe'
