@@ -7,7 +7,7 @@
 
   - name: download urls
     win_get_url:
-      url: http://10.11.128.126/remwork/{{ item }}
+      url: http://{{ iph }}/remwork/{{ item }}
       dest: C:\ansible_temp\{{ item }}
     loop:
       - 'anyconnect.3.1.14018.exe'
